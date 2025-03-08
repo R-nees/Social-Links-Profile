@@ -34,11 +34,12 @@ body {
     color: #c4f82a;
     font-size: 14px;
     margin-top: -5px;
+    margin-bottom: 20px;
 }
 
 .bio {
     font-size: 14px;
-    margin: 10px 0;
+    margin: 10px 0 20px;
 }
 
 .links {
